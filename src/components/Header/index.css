@@ -1,0 +1,30 @@
+.nav-header{
+    display: flex;
+    justify-content: space-between;
+  }
+  .header-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+  
+  }
+  .two-items{
+    display: flex;
+    justify-content: space-between;
+    
+    align-items: center;
+  }
+  .header-name{
+    padding-left:15px ;
+    text-decoration: none;
+  }
+  
+  .language-select {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #ffffff; /* White background */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 25px;
+  }
