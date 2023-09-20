@@ -1,16 +1,16 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { LanguageProvider } from './LanguageContext'; // Import the LanguageProvider
+import { LanguageProvider } from './LanguageContext';
 import Home from './components/Home';
 import About from './components/About';
 import NotFound from './components/NotFound';
-import Header from './components/Header'; // Import Header component
+import Header from './components/Header'; 
 
 import './App.css';
 
 const App = () => (
   <Router>
-    <LanguageProvider> {/* Wrap your application with LanguageProvider */}
+    <LanguageProvider>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
