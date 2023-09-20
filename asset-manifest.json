@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/language-change-react/static/css/main.d29dadb7.css",
+    "main.js": "/language-change-react/static/js/main.f4b76f34.js",
+    "static/js/787.bc7d429a.chunk.js": "/language-change-react/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/language-change-react/index.html",
+    "main.d29dadb7.css.map": "/language-change-react/static/css/main.d29dadb7.css.map",
+    "main.f4b76f34.js.map": "/language-change-react/static/js/main.f4b76f34.js.map",
+    "787.bc7d429a.chunk.js.map": "/language-change-react/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29dadb7.css",
+    "static/js/main.f4b76f34.js"
+  ]
+}
